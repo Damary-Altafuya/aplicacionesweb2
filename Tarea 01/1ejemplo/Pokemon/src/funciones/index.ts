@@ -1,0 +1,1 @@
+export {searchPokemonById} from "./getPokemon"
